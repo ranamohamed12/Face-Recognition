@@ -6,3 +6,11 @@ Face Recognition: Detect and recognize faces from uploaded images, using state-o
 Face Search: Easily search for specific faces across an image database.
 Image Preprocessing: Handle and process images with low resolutions and varied characteristics for enhanced recognition accuracy.
 Interactive UI: Built with Streamlit, offering a simple and responsive interface for uploading and processing images.
+
+## Final Product
+
+Here’s a snapshot of the Face Recognition and Search App:
+
+![Face Recognition App Screenshot](./images/final_app_screenshot.png)
+
+*Figure: Interface of the Face Recognition and Search App built with Streamlit.*
