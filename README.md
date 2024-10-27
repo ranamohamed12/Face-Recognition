@@ -11,6 +11,6 @@ Interactive UI: Built with Streamlit, offering a simple and responsive interface
 
 Here’s a snapshot of the Face Recognition and Search App:
 
-![Face Recognition App Screenshot](./images/final_app_screenshot.png)
+![Face Recognition App Screenshot](./final_app_screenshot.png)
 
 *Figure: Interface of the Face Recognition and Search App built with Streamlit.*
